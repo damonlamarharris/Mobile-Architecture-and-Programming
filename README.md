@@ -1,2 +1,2 @@
-# Mobile-Architecture-snd-Programming
+# Mobile-Architecture-and-Programming
 Android app development
